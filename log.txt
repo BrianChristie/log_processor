@@ -1,0 +1,7 @@
+TS1:GET:https://hackernews.com/volumes:1000
+TS2:GET:https://hackernews.com/trader/joe:500
+TS3:POST:https://hackernews.com/trade/buy:10
+TS4:POST:https://hackernews.com/trade/sell:10
+TS5:GET:https://hackernews.com/trader/joe/settings:2000
+TS6:GET:https://google.com/?query="Serverless Servers":10000
+TS7:GET:http://k8s.io/apis/:20
