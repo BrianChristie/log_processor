@@ -7,3 +7,5 @@ Example: `python3 log_processor.py log.txt largest_res_by_host -C 3`
 
 ## To run tests
 `python3 log_processor_tests.py`
+
+Version 0.0.1
